@@ -8,17 +8,15 @@ int number = int.Parse(Console.ReadLine());
 Console.WriteLine($"Квадрат {number} равен {number*number}");
 Console.WriteLine("Ваше имя "+name);
 */
+Console.Write("Введите первое число: ");
 int num1 = int.Parse(Console.ReadLine());
+Console.Write("Введите второе число: ");
 int num2 = int.Parse(Console.ReadLine());
-if (num2*num2==num1)
-    Console.WriteLine($"{num1} квадрат {num2}");
-else 
-    Console.WriteLine("Нет, не является");
-int koren = Convert.ToInt32(Math.Sqrt(num1));
-if (koren == num2){
-    Console.WriteLine($"{num1} квадрат {num2}");
-}
-else{
-    Console.WriteLine("Нет, не является");
-}
+if (num1>num2){
+    Console.WriteLine($"{num1} большее из двух чисел {num2} меньшее");
+    }
+else{ 
+    Console.WriteLine($"{num2} большее из двух чисел {num1} меньшее");
+} 
+
     
