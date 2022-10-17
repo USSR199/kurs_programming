@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\obj\Debug\net6.0\pr29.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\obj\Debug\net6.0\pr29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\obj\Debug\net6.0\pr29.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\obj\Debug\net6.0\pr29.AssemblyInfo.cs
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\obj\Debug\net6.0\pr29.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\bin\Debug\net6.0\pr29.exe
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\bin\Debug\net6.0\pr29.deps.json
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\bin\Debug\net6.0\pr29.runtimeconfig.json
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\bin\Debug\net6.0\pr29.dll
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\bin\Debug\net6.0\pr29.pdb
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\obj\Debug\net6.0\pr29.dll
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\obj\Debug\net6.0\refint\pr29.dll
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\obj\Debug\net6.0\pr29.pdb
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\obj\Debug\net6.0\pr29.genruntimeconfig.cache
+C:\Users\Home\Desktop\c#_kurs\4 sem\pr29\obj\Debug\net6.0\ref\pr29.dll
