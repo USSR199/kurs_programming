@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\bin\Debug\net6.0\pr41.exe
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\bin\Debug\net6.0\pr41.deps.json
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\bin\Debug\net6.0\pr41.runtimeconfig.json
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\bin\Debug\net6.0\pr41.dll
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\bin\Debug\net6.0\pr41.pdb
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\obj\Debug\net6.0\pr41.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\obj\Debug\net6.0\pr41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\obj\Debug\net6.0\pr41.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\obj\Debug\net6.0\pr41.AssemblyInfo.cs
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\obj\Debug\net6.0\pr41.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\obj\Debug\net6.0\pr41.dll
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\obj\Debug\net6.0\refint\pr41.dll
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\obj\Debug\net6.0\pr41.pdb
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\obj\Debug\net6.0\pr41.genruntimeconfig.cache
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr41\obj\Debug\net6.0\ref\pr41.dll
