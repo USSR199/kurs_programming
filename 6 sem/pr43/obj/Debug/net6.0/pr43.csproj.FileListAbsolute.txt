@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\bin\Debug\net6.0\pr43.exe
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\bin\Debug\net6.0\pr43.deps.json
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\bin\Debug\net6.0\pr43.runtimeconfig.json
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\bin\Debug\net6.0\pr43.dll
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\bin\Debug\net6.0\pr43.pdb
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\obj\Debug\net6.0\pr43.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\obj\Debug\net6.0\pr43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\obj\Debug\net6.0\pr43.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\obj\Debug\net6.0\pr43.AssemblyInfo.cs
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\obj\Debug\net6.0\pr43.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\obj\Debug\net6.0\pr43.dll
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\obj\Debug\net6.0\refint\pr43.dll
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\obj\Debug\net6.0\pr43.pdb
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\obj\Debug\net6.0\pr43.genruntimeconfig.cache
+C:\Users\Home\Desktop\c#_kurs\6 sem\pr43\obj\Debug\net6.0\ref\pr43.dll
