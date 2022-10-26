@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\bin\Debug\net6.0\pr52.exe
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\bin\Debug\net6.0\pr52.deps.json
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\bin\Debug\net6.0\pr52.runtimeconfig.json
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\bin\Debug\net6.0\pr52.dll
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\bin\Debug\net6.0\pr52.pdb
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\obj\Debug\net6.0\pr52.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\obj\Debug\net6.0\pr52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\obj\Debug\net6.0\pr52.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\obj\Debug\net6.0\pr52.AssemblyInfo.cs
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\obj\Debug\net6.0\pr52.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\obj\Debug\net6.0\pr52.dll
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\obj\Debug\net6.0\refint\pr52.dll
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\obj\Debug\net6.0\pr52.pdb
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\obj\Debug\net6.0\pr52.genruntimeconfig.cache
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr52\obj\Debug\net6.0\ref\pr52.dll
