@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\bin\Debug\net6.0\pr47.exe
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\bin\Debug\net6.0\pr47.deps.json
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\bin\Debug\net6.0\pr47.runtimeconfig.json
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\bin\Debug\net6.0\pr47.dll
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\bin\Debug\net6.0\pr47.pdb
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\obj\Debug\net6.0\pr47.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\obj\Debug\net6.0\pr47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\obj\Debug\net6.0\pr47.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\obj\Debug\net6.0\pr47.AssemblyInfo.cs
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\obj\Debug\net6.0\pr47.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\obj\Debug\net6.0\pr47.dll
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\obj\Debug\net6.0\refint\pr47.dll
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\obj\Debug\net6.0\pr47.pdb
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\obj\Debug\net6.0\pr47.genruntimeconfig.cache
+C:\Users\Home\Desktop\c#_kurs\7 sem\pr47\obj\Debug\net6.0\ref\pr47.dll
