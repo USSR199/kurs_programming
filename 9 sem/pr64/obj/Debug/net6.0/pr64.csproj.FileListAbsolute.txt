@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\bin\Debug\net6.0\pr64.exe
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\bin\Debug\net6.0\pr64.deps.json
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\bin\Debug\net6.0\pr64.runtimeconfig.json
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\bin\Debug\net6.0\pr64.dll
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\bin\Debug\net6.0\pr64.pdb
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\obj\Debug\net6.0\pr64.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\obj\Debug\net6.0\pr64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\obj\Debug\net6.0\pr64.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\obj\Debug\net6.0\pr64.AssemblyInfo.cs
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\obj\Debug\net6.0\pr64.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\obj\Debug\net6.0\pr64.dll
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\obj\Debug\net6.0\refint\pr64.dll
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\obj\Debug\net6.0\pr64.pdb
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\obj\Debug\net6.0\pr64.genruntimeconfig.cache
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr64\obj\Debug\net6.0\ref\pr64.dll
