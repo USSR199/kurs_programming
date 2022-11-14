@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\bin\Debug\net6.0\pr58.exe
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\bin\Debug\net6.0\pr58.deps.json
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\bin\Debug\net6.0\pr58.runtimeconfig.json
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\bin\Debug\net6.0\pr58.dll
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\bin\Debug\net6.0\pr58.pdb
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\obj\Debug\net6.0\pr58.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\obj\Debug\net6.0\pr58.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\obj\Debug\net6.0\pr58.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\obj\Debug\net6.0\pr58.AssemblyInfo.cs
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\obj\Debug\net6.0\pr58.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\obj\Debug\net6.0\pr58.dll
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\obj\Debug\net6.0\refint\pr58.dll
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\obj\Debug\net6.0\pr58.pdb
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\obj\Debug\net6.0\pr58.genruntimeconfig.cache
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr58\obj\Debug\net6.0\ref\pr58.dll
