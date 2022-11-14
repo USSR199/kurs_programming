@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\bin\Debug\net6.0\pr66.exe
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\bin\Debug\net6.0\pr66.deps.json
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\bin\Debug\net6.0\pr66.runtimeconfig.json
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\bin\Debug\net6.0\pr66.dll
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\bin\Debug\net6.0\pr66.pdb
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\obj\Debug\net6.0\pr66.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\obj\Debug\net6.0\pr66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\obj\Debug\net6.0\pr66.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\obj\Debug\net6.0\pr66.AssemblyInfo.cs
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\obj\Debug\net6.0\pr66.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\obj\Debug\net6.0\pr66.dll
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\obj\Debug\net6.0\refint\pr66.dll
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\obj\Debug\net6.0\pr66.pdb
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\obj\Debug\net6.0\pr66.genruntimeconfig.cache
+C:\Users\Home\Desktop\c#_kurs\9 sem\pr66\obj\Debug\net6.0\ref\pr66.dll
