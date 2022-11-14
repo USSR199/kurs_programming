@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\bin\Debug\net6.0\pr62.exe
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\bin\Debug\net6.0\pr62.deps.json
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\bin\Debug\net6.0\pr62.runtimeconfig.json
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\bin\Debug\net6.0\pr62.dll
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\bin\Debug\net6.0\pr62.pdb
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\obj\Debug\net6.0\pr62.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\obj\Debug\net6.0\pr62.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\obj\Debug\net6.0\pr62.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\obj\Debug\net6.0\pr62.AssemblyInfo.cs
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\obj\Debug\net6.0\pr62.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\obj\Debug\net6.0\pr62.dll
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\obj\Debug\net6.0\refint\pr62.dll
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\obj\Debug\net6.0\pr62.pdb
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\obj\Debug\net6.0\pr62.genruntimeconfig.cache
+C:\Users\Home\Desktop\c#_kurs\8 sem\pr62\obj\Debug\net6.0\ref\pr62.dll
